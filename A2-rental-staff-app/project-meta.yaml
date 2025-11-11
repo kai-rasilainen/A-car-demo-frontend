@@ -1,0 +1,29 @@
+code: A2
+name: rental-staff-app
+
+description: |
+  React web application for rental service staff to monitor and manage car fleet.
+
+  Features:
+  - Car search by license plate
+  - Real-time temperature monitoring with 24-hour charts (indoor vs outdoor)
+  - GPS location tracking
+  - Car owner and service information display
+  - Remote command sending (heating, service mode)
+  - Temperature history visualization with Recharts
+  - Auto-refresh every 30 seconds
+
+  Built with:
+  - React 18
+  - Material-UI components
+  - Axios for API calls to B1 web server (localhost:3001)
+
+  Main files:
+  - src/App.js (main component)
+  - src/index.js (entry point)
+  - public/index.html
+
+linkingProjects:
+  - ../../car-demo-backend/B1-web-server
+
+extraInfo: []

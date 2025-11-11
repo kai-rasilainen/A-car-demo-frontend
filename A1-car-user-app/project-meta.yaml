@@ -1,0 +1,26 @@
+code: A1
+name: car-user-app
+
+description: |
+  React Native mobile application for car users to view their car's temperature and location data.
+
+  Features:
+  - License plate input
+  - Real-time outdoor and indoor temperature display
+  - GPS location viewing
+  - Car owner and service information display
+  - Auto-refresh every 30 seconds
+  - Manual refresh option
+
+  Built with:
+  - React Native and Expo
+  - React Native Paper for UI components
+  - Axios for API calls to B1 web server
+
+  Main files:
+  - App.js (main component)
+
+linkingProjects:
+  - ../../car-demo-backend/B1-web-server
+
+extraInfo: []
