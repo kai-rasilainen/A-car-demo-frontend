@@ -24,6 +24,6 @@ description: |
   - public/index.html
 
 linkingProjects:
-  - ../../car-demo-backend/B1-web-server
+  - https://github.com/kai-rasilainen/B-car-demo-backend/tree/main/B1-web-server
 
 extraInfo: []

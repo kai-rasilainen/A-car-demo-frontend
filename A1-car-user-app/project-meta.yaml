@@ -21,6 +21,6 @@ description: |
   - App.js (main component)
 
 linkingProjects:
-  - ../../car-demo-backend/B1-web-server
+  - ../../B-car-demo-backend/B1-web-server
 
 extraInfo: []
