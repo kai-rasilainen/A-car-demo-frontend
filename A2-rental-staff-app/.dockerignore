@@ -1,0 +1,13 @@
+# A2 Rental Staff App - Docker ignore
+node_modules
+npm-debug.log*
+.npm
+build
+.env
+.env.local
+.env.production
+coverage/
+*.log
+.nyc_output
+.DS_Store
+Thumbs.db
